@@ -5,7 +5,7 @@
     <div class="upcoming">
       <br />
       <p><b>Upcoming shows</b></p>
-      <p>03-May-2026 - The Star Inn, Guildford</p>
+      <p>23-May-2026 - Proteus Creation Space, Basingstoke</p>
       <p>27-May-2026 - The Purple Turtle, Reading</p>
       <p>31-Oct-2026 - Biggin Hall, Dover</p>
       <br />
