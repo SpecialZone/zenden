@@ -7,6 +7,7 @@
       <p><b>Upcoming shows</b></p>
       <p>23-May-2026 - Proteus Creation Space, Basingstoke</p>
       <p>27-May-2026 - The Purple Turtle, Reading</p>
+      <p>26-Sept-2026 - Radioactive Lemon 3, Reading</p>
       <p>31-Oct-2026 - Biggin Hall, Dover</p>
       <br />
       <br />
