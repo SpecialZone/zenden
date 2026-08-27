@@ -2,7 +2,7 @@
 
 <template>
   <div class="live-section wrapper">
-    <div class="upcoming">
+    <!-- <div class="upcoming">
       <br />
       <p><b>Upcoming shows</b></p>
       <p>23-May-2026 - Proteus Creation Space, Basingstoke</p>
@@ -10,7 +10,7 @@
       <p>26-Sept-2026 - Radioactive Lemon 3, Reading</p>
       <p>31-Oct-2026 - Biggin Hall, Dover</p>
       <br />
-      <br />
+      <br /> -->
       <div>
         <p><b>Contact</b></p>
         <p>We are currently booking gigs.</p>
