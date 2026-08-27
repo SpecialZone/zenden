@@ -2,8 +2,8 @@
 
 <template>
   <div class="live-section wrapper">
-    <!-- <div class="upcoming">
-      <br />
+    <div class="upcoming">
+      <!-- <br />
       <p><b>Upcoming shows</b></p>
       <p>23-May-2026 - Proteus Creation Space, Basingstoke</p>
       <p>27-May-2026 - The Purple Turtle, Reading</p>
